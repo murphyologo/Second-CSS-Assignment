@@ -34,7 +34,7 @@ body{
 }
 
 #main .img-1 .img img{
-    margin-top: 1em;
+    margin-top: 10px;
     align-items: center;
     height: 100%;
     width: 90%;
@@ -85,3 +85,6 @@ body{
     
 }
 
+.footer span{
+    color: rgb(95, 95, 138);
+}
